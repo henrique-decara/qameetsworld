@@ -9,11 +9,11 @@
     <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World e Outras Mentiras</title>
+      <title>First!</title>
       <link>http://localhost:1313/posts/hello-world-good-morning-vietnam/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello-world-good-morning-vietnam/</guid>
-      <description>&lt;p&gt;&lt;em&gt;E lá estava você, achando que &amp;ldquo;hello world&amp;rdquo; seria só mais um post qualquer&amp;hellip;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../static/img/logo-without-bottom.png&#34; alt=&#34;QA Meets World&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;This is the very first post in this blog. How long does it gonna last? I don&amp;rsquo;t know&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

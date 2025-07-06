@@ -1,11 +1,8 @@
 ---
-title: "Sobre"
-date: 2025-07-06
+title: "About"
 layout: "about"
+draft: false
 ---
 
-Sou um viajante cósmico que descobriu que testar software é mais filosófico do que parece.
-
-🧪 Criei este espaço para compartilhar bugs, ideias, e algumas pérolas de sabedoria pseudo-galáctica.
-
-Se tiver café, me chama. Se tiver erro 500, me chama dobrado.
+My name is Henrique. I was born in 1995, and a I'm a QA engineer since 2020. 
+I like horror books and horror movies.

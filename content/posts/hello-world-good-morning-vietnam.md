@@ -1,9 +1,7 @@
 ---
-title: "Hello World e Outras Mentiras"
+title: "First!"
 date: 2025-07-06
 draft: false
 ---
 
-*E lá estava você, achando que "hello world" seria só mais um post qualquer...*
-
-![QA Meets World](../../static/img/logo-without-bottom.png)
+*This is the very first post in this blog. How long does it gonna last? I don't know*

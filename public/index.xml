@@ -9,18 +9,18 @@
     <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World e Outras Mentiras</title>
+      <title>First!</title>
       <link>http://localhost:1313/posts/hello-world-good-morning-vietnam/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hello-world-good-morning-vietnam/</guid>
-      <description>&lt;p&gt;&lt;em&gt;E lá estava você, achando que &amp;ldquo;hello world&amp;rdquo; seria só mais um post qualquer&amp;hellip;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../static/img/logo-without-bottom.png&#34; alt=&#34;QA Meets World&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;This is the very first post in this blog. How long does it gonna last? I don&amp;rsquo;t know&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sobre</title>
+      <title>About</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Sou um viajante cósmico que descobriu que testar software é mais filosófico do que parece.&lt;/p&gt;&#xA;&lt;p&gt;🧪 Criei este espaço para compartilhar bugs, ideias, e algumas pérolas de sabedoria pseudo-galáctica.&lt;/p&gt;&#xA;&lt;p&gt;Se tiver café, me chama. Se tiver erro 500, me chama dobrado.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My name is Henrique. I was born in 1995, and a I&amp;rsquo;m a QA engineer since 2020.&#xA;I like horror books and horror movies.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
