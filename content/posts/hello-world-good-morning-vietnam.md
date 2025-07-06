@@ -5,3 +5,5 @@ draft: false
 ---
 
 *E lá estava você, achando que "hello world" seria só mais um post qualquer...*
+
+![QA Meets World](../../static/img/logo-without-bottom.png)
