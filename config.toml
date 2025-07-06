@@ -1,0 +1,19 @@
+baseURL = "https://seublog.netlify.app/"
+languageCode = "en-us"
+title = "Qa Meets World"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  defaultTheme = "dark"
+  showReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 1
